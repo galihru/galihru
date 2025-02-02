@@ -23,10 +23,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 - JavaScript  
 - C++ Programming  
 - Public Speaking  
-- SERS Sensor Experimentation  
 - MATLAB Programming  
-- Raman Spectrometry  
-- UV-Vis Techniques  
 
 ---
 
