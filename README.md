@@ -1,7 +1,5 @@
 # Galih Ridho Utomo
 
-![Profile Photo](https://github.com/4211421036/g4lihru/blob/2d698153c2c2953cab944ca7a82444ff5166e659/3x4.jpg)
-
 ## Contact Information
 
 - **Address**: Perum Permata Blok CB 20/10, Tangerang 15562  
