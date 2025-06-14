@@ -40,7 +40,7 @@ async function main() {
     .sort((a, b) => b.pct - a.pct);
 
   const skillsMd = [
-    '## 🛠️ Languages Used',
+    '### Languages Progamming Used',
     '',
     '| Language | Usage |',
     '|---|---|',
@@ -51,7 +51,7 @@ async function main() {
 
   // 3) GitHub Stats
   const ghStatsMd = [
-    '## 🚀 GitHub Highlights',
+    '### GitHub Highlights',
     '',
     '<div align="center">',
     `  <img src="https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=dark" />`,
@@ -62,7 +62,7 @@ async function main() {
   // 4) Popular Projects
   const popular = repos.filter(r => r.stargazers_count > 0 || r.has_packages);
   const projectsMd = [
-    '## 📦 Popular Projects',
+    '### Popular Projects',
     '',
     '<table>',
     '<tr>',
@@ -82,7 +82,7 @@ async function main() {
 
   // 5) All Repositories
   const repoListMd = [
-    '## 📁 All Repositories',
+    '### All Repositories',
     '',
     ...repos.map(r => `- [${r.name}](${r.html_url}) — ${r.description || ''}`)
   ].join('\n');
