@@ -14,25 +14,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '16'
-
       - name: Install dependencies
-        run: npm ci
-
+        run: npm install
       - name: Generate README
         run: npm run generate
-
       - name: Commit & Push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # stage only README.md
           git add README.md
-          # kalau ada perubahan, baru commit & push
           if ! git diff --cached --quiet; then
             git commit -m "chore: update README"
             git push
