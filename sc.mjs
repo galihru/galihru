@@ -6,25 +6,26 @@ const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN,
   request: { fetch }
 });
+
 const owner = process.env.GITHUB_REPOSITORY.split('/')[0];
 const username = owner;
 
-function replaceSection(content, startMarker, endMarker, newSection) {
-  const pattern = new RegExp(
-    `(<!-- ${startMarker} -->)[\\s\\S]*?(<!-- ${endMarker} -->)`,
+function replaceSection(content, start, end, replacement) {
+  const re = new RegExp(
+    `(<!-- ${start} -->)[\\s\\S]*?(<!-- ${end} -->)`,
     'm'
   );
-  return content.replace(pattern, `$1\n${newSection}\n$2`);
+  return content.replace(re, `$1\n${replacement}\n$2`);
 }
 
 async function main() {
-  // 1) Ambil repos publik
+  // ambil repos user
   const { data: repos } = await octokit.repos.listForUser({
     username,
     per_page: 100
   });
 
-  // 2) Languages Used
+  // === Languages Used ===
   const langCount = {};
   repos.forEach(r => {
     const lang = r.language || 'Unknown';
@@ -38,7 +39,6 @@ async function main() {
       pct: Math.round((cnt / total) * 100)
     }))
     .sort((a, b) => b.pct - a.pct);
-
   const skillsMd = [
     '### Languages Progamming Used',
     '',
@@ -49,7 +49,7 @@ async function main() {
     )
   ].join('\n');
 
-  // 3) GitHub Stats
+  // === GitHub Highlights ===
   const ghStatsMd = [
     '### GitHub Highlights',
     '',
@@ -59,35 +59,45 @@ async function main() {
     '</div>'
   ].join('\n');
 
-  // 4) Popular Projects
+  // === Popular Projects (cards) ===
   const popular = repos.filter(r => r.stargazers_count > 0 || r.has_packages);
+  const cardsHtml = popular.map(r => `
+  <div style="
+    border:1px solid #ddd;
+    border-radius:8px;
+    padding:1em;
+    width:200px;
+    margin:0.5em;
+    text-align:center;
+    box-shadow:0 2px 4px rgba(0,0,0,0.1);
+    ">
+    <a href="${r.html_url}" style="text-decoration:none; color:inherit;">
+      <img src="${r.owner.avatar_url}" width="100" alt="${r.name} logo" />
+      <h4 style="margin:0.5em 0 0.3em;">${r.name}</h4>
+    </a>
+    <p style="margin:0.2em 0;">
+      ⭐&nbsp;${r.stargazers_count}<br/>
+      ${r.has_packages ? '📦 Package Available' : ''}
+    </p>
+  </div>
+  `).join('\n');
+
   const projectsMd = [
     '### Popular Projects',
     '',
-    '<table>',
-    '<tr>',
-    ...popular.map(r => [
-      `<td align="center">`,
-      `  <a href="${r.html_url}">`,
-      `    <img src="${r.owner.avatar_url}" width="120" />`,
-      `    <h3>${r.name}</h3>`,
-      `  </a>`,
-      `  ⭐️ **${r.stargazers_count}**`,
-      (r.has_packages ? `<br/>📦 Package Available` : ''),
-      `</td>`
-    ].join('\n')),
-    '</tr>',
-    '</table>'
+    `<div style="display:flex; flex-wrap:wrap; justify-content:flex-start;">`,
+    cardsHtml,
+    '</div>'
   ].join('\n');
 
-  // 5) All Repositories
+  // === All Repositories ===
   const repoListMd = [
     '### All Repositories',
     '',
     ...repos.map(r => `- [${r.name}](${r.html_url}) — ${r.description || ''}`)
   ].join('\n');
 
-  // 6) Baca README.md, replace tiap section, dan tulis ulang
+  // baca, replace, dan tulis kembali
   let readme = fs.readFileSync('README.md', 'utf8');
   readme = replaceSection(readme, 'SKILLS-START', 'SKILLS-END', skillsMd);
   readme = replaceSection(readme, 'GHSTATS-START', 'GHSTATS-END', ghStatsMd);
@@ -96,7 +106,7 @@ async function main() {
   fs.writeFileSync('README.md', readme, 'utf8');
 }
 
-main().catch(err => {
-  console.error(err);
+main().catch(e => {
+  console.error(e);
   process.exit(1);
 });
