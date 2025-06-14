@@ -18,7 +18,6 @@ function replaceSection(content, startMarker, endMarker, newSection) {
 }
 
 async function main() {
-  // 1) Ambil repos publik
   const { data: repos } = await octokit.repos.listForUser({
     username,
     per_page: 100
