@@ -4,7 +4,7 @@ on:
     branches: ["main"]
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:
+    workflow_dispatch:
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -20,10 +20,10 @@ jobs:
       - name: Install dependencies
         run: npm install @octokit/rest
       - name: Generate README
-        run: node sc.js
+        run: node scripts/generate_readme.js
       - name: Commit & Push
         run: |
-          git config user.name "github-actions"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "chore: update README"
