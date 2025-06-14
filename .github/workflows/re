@@ -1,13 +1,12 @@
 name: Update README
 on:
-  push:
-    branches: ["main"]
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'    # setiap hari 00:00 UTC
   workflow_dispatch:
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -18,9 +17,9 @@ jobs:
         with:
           node-version: '16'
       - name: Install dependencies
-        run: npm install @octokit/rest
+        run: npm install
       - name: Generate README
-        run: node scripts/generate_readme.js
+        run: node sc.mjs
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
