@@ -1,11 +1,15 @@
 import fs from 'fs';
+import fetch from 'node-fetch';
 import { Octokit } from '@octokit/rest';
 
-const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+// Beri tahu Octokit untuk pakai fetch ini
+const octokit = new Octokit({
+  auth: process.env.GITHUB_TOKEN,
+  request: { fetch }
+});
 const username = process.env.GITHUB_ACTOR;
 
 async function main() {
-  // ambil repos
   const { data: repos } = await octokit.repos.listForAuthenticatedUser({ per_page: 100 });
 
   // 1) Tabel skills
@@ -26,7 +30,7 @@ async function main() {
     '</div>'
   ].join('\n');
 
-  // 3) Project cards (star > 0 atau punya package)
+  // 3) Project cards
   const popular = repos.filter(r => r.stargazers_count > 0 || r.has_packages);
   const cards = popular.map(r => [
       `<td align="center">`,
@@ -41,10 +45,10 @@ async function main() {
   ).join('\n');
   const projectCards = `<table>\n<tr>\n${cards}\n</tr>\n</table>`;
 
-  // 4) Daftar semua repo
-  const repoList = repos
-    .map(r => `- [${r.name}](${r.html_url}) — ${r.description || ''}`)
-    .join('\n');
+  // 4) Repo list
+  const repoList = repos.map(r =>
+    `- [${r.name}](${r.html_url}) — ${r.description || ''}`
+  ).join('\n');
 
   // 5) Isi template
   let tpl = fs.readFileSync('README.tpl.md', 'utf8');
@@ -53,7 +57,7 @@ async function main() {
   tpl = tpl.replace('<!-- PROJECT_CARDS -->', projectCards);
   tpl = tpl.replace('<!-- REPO_LIST -->', repoList);
 
-  // 6) Tulis hasil
+  // 6) Tulis README.md
   fs.writeFileSync('README.md', tpl, 'utf8');
 }
 
