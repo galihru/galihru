@@ -23,7 +23,6 @@ async function main() {
     per_page: 100
   });
 
-  // 2) Languages Used
   const langCount = {};
   repos.forEach(r => {
     const lang = r.language || 'Unknown';
