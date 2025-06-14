@@ -21,15 +21,15 @@ I am a Physics student at State University of Semarang. I am known as a committe
 - Research Design  
 
 <!-- SKILLS-START -->
-## 🛠️ Languages Progamming Used
+### Languages Progamming Used
 <!-- SKILLS-END -->
 
 <!-- GHSTATS-START -->
-## 🚀 Project GitHub Highlights
+### Project GitHub Highlights
 <!-- GHSTATS-END -->
 
 <!-- PROJECTS-START -->
-## 📦 Popular Projects Release
+### Popular Projects Release
 <!-- PROJECTS-END -->
 
 ---
