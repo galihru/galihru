@@ -21,7 +21,8 @@ I am a Physics student at State University of Semarang. I am known as a committe
 - Research Design  
 
 <!-- SKILLS-START -->
-### Languages Progamming Used
+### Mastered and frequently used programming languages
+---
 
 | Language | Usage |
 |---|---|
@@ -40,6 +41,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 <!-- GHSTATS-START -->
 ### GitHub Highlights
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4211421036&show_icons=true&theme=dark" />
@@ -49,449 +51,188 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 <!-- PROJECTS-START -->
 ### Popular Projects
+---
 
-<div style="display:flex; flex-wrap:wrap; justify-content:flex-start;">
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/4211421036/4211421036">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>4211421036</h3>
+  </a>
+  ⭐️ **8**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/4211421036" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="4211421036 logo" />
-      <h4 style="margin:0.5em 0 0.3em;">4211421036</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;8<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/4211421036.github.io">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>4211421036.github.io</h3>
+  </a>
+  ⭐️ **10**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/4211421036.github.io" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="4211421036.github.io logo" />
-      <h4 style="margin:0.5em 0 0.3em;">4211421036.github.io</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;10<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/codegenerator">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>codegenerator</h3>
+  </a>
+  ⭐️ **9**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/codegenerator" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="codegenerator logo" />
-      <h4 style="margin:0.5em 0 0.3em;">codegenerator</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;9<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/cv">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>cv</h3>
+  </a>
+  ⭐️ **9**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/cv" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="cv logo" />
-      <h4 style="margin:0.5em 0 0.3em;">cv</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;9<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/cvs">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>cvs</h3>
+  </a>
+  ⭐️ **9**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/cvs" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="cvs logo" />
-      <h4 style="margin:0.5em 0 0.3em;">cvs</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;9<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/drive">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>drive</h3>
+  </a>
+  ⭐️ **9**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/drive" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="drive logo" />
-      <h4 style="margin:0.5em 0 0.3em;">drive</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;9<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/facemind">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>facemind</h3>
+  </a>
+  ⭐️ **23**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/facemind" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="facemind logo" />
-      <h4 style="margin:0.5em 0 0.3em;">facemind</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;23<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/fnn">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>fnn</h3>
+  </a>
+  ⭐️ **10**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/fnn" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="fnn logo" />
-      <h4 style="margin:0.5em 0 0.3em;">fnn</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;10<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/g4lihru.github.io">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>g4lihru.github.io</h3>
+  </a>
+  ⭐️ **10**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/g4lihru.github.io" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="g4lihru.github.io logo" />
-      <h4 style="margin:0.5em 0 0.3em;">g4lihru.github.io</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;10<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/githubiot">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>githubiot</h3>
+  </a>
+  ⭐️ **6**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/githubiot" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="githubiot logo" />
-      <h4 style="margin:0.5em 0 0.3em;">githubiot</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;6<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/gsr">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>gsr</h3>
+  </a>
+  ⭐️ **10**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/gsr" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="gsr logo" />
-      <h4 style="margin:0.5em 0 0.3em;">gsr</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;10<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/hbd">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>hbd</h3>
+  </a>
+  ⭐️ **11**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/hbd" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="hbd logo" />
-      <h4 style="margin:0.5em 0 0.3em;">hbd</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;11<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/hbd.github.io">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>hbd.github.io</h3>
+  </a>
+  ⭐️ **9**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/hbd.github.io" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="hbd.github.io logo" />
-      <h4 style="margin:0.5em 0 0.3em;">hbd.github.io</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;9<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/iotgithub">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>iotgithub</h3>
+  </a>
+  ⭐️ **8**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/iotgithub" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="iotgithub logo" />
-      <h4 style="margin:0.5em 0 0.3em;">iotgithub</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;8<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/IoTModule">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>IoTModule</h3>
+  </a>
+  ⭐️ **9**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/IoTModule" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="IoTModule logo" />
-      <h4 style="margin:0.5em 0 0.3em;">IoTModule</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;9<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/library-registry">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>library-registry</h3>
+  </a>
+  ⭐️ **9**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/library-registry" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="library-registry logo" />
-      <h4 style="margin:0.5em 0 0.3em;">library-registry</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;9<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/MentalHealth">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>MentalHealth</h3>
+  </a>
+  ⭐️ **13**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/MentalHealth" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="MentalHealth logo" />
-      <h4 style="margin:0.5em 0 0.3em;">MentalHealth</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;13<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/module">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>module</h3>
+  </a>
+  ⭐️ **10**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/module" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="module logo" />
-      <h4 style="margin:0.5em 0 0.3em;">module</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;10<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/qualityair">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>qualityair</h3>
+  </a>
+  ⭐️ **10**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/qualityair" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="qualityair logo" />
-      <h4 style="margin:0.5em 0 0.3em;">qualityair</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;10<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/Riset">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>Riset</h3>
+  </a>
+  ⭐️ **7**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/Riset" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="Riset logo" />
-      <h4 style="margin:0.5em 0 0.3em;">Riset</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;7<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/seb-win-refactoring">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>seb-win-refactoring</h3>
+  </a>
+  ⭐️ **1**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/seb-win-refactoring" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="seb-win-refactoring logo" />
-      <h4 style="margin:0.5em 0 0.3em;">seb-win-refactoring</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;1<br/>
-      
-    </p>
-  </div>
-  
+</td>
+<td align="center">
+  <a href="https://github.com/4211421036/YFS201">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>YFS201</h3>
+  </a>
+  ⭐️ **1**
 
-  <div style="
-    border:1px solid #ddd;
-    border-radius:8px;
-    padding:1em;
-    width:200px;
-    margin:0.5em;
-    text-align:center;
-    box-shadow:0 2px 4px rgba(0,0,0,0.1);
-    ">
-    <a href="https://github.com/4211421036/YFS201" style="text-decoration:none; color:inherit;">
-      <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="100" alt="YFS201 logo" />
-      <h4 style="margin:0.5em 0 0.3em;">YFS201</h4>
-    </a>
-    <p style="margin:0.2em 0;">
-      ⭐&nbsp;1<br/>
-      
-    </p>
-  </div>
-  
-</div>
+</td>
+</tr>
+</table>
 <!-- PROJECTS-END -->
 
 ---
