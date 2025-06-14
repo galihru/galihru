@@ -21,7 +21,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 - Research Design  
 
 <!-- SKILLS-START -->
-## 🛠️ Languages Used
+### Languages Progamming Used
 
 | Language | Usage |
 |---|---|
@@ -39,7 +39,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 <!-- SKILLS-END -->
 
 <!-- GHSTATS-START -->
-## 🚀 GitHub Highlights
+### GitHub Highlights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4211421036&show_icons=true&theme=dark" />
@@ -48,7 +48,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 <!-- GHSTATS-END -->
 
 <!-- PROJECTS-START -->
-## 📦 Popular Projects
+### Popular Projects
 
 <table>
 <tr>
@@ -237,7 +237,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 ---
 
 <!-- REPO-START -->
-## 📁 All Repositories
+### All Repositories
 
 - [4211421036](https://github.com/4211421036/4211421036) — Hallo, Name is GALIH RIDHO UTOMO
 - [4211421036.github.io](https://github.com/4211421036/4211421036.github.io) — Collection Application By GALIH RIDHO UTOMO
