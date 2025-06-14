@@ -1,0 +1,12 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "Prestasi GALIH RIDHO UTOMO",
+  "type": "module",
+  "scripts": {
+    "generate": "node sc.mjs"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.0"
+  }
+}
