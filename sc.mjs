@@ -10,7 +10,12 @@ const octokit = new Octokit({
 const username = process.env.GITHUB_ACTOR;
 
 async function main() {
-  const { data: repos } = await octokit.repos.listForAuthenticatedUser({ per_page: 100 });
+  const owner = process.env.GITHUB_REPOSITORY.split('/')[0];
+  // Mendapatkan repositori publik user tanpa memerlukan scope `user:email`
+  const { data: repos } = await octokit.repos.listForUser({
+    username: owner,
+    per_page: 100
+  });
 
   // 1) Tabel skills
   const skills = JSON.parse(fs.readFileSync('scripts/skills.json', 'utf8'));
