@@ -19,11 +19,26 @@ I am a Physics student at State University of Semarang. I am known as a committe
 - Data Analysis  
 - Experimental Design  
 - Research Design  
-- Python Programming  
-- JavaScript  
-- C++ Programming  
-- Public Speaking  
-- MATLAB Programming  
+
+<!-- SKILLS-START -->
+## 🛠️ Languages Progamming Used
+<!-- SKILLS-END -->
+
+<!-- GHSTATS-START -->
+## 🚀 Project GitHub Highlights
+<!-- GHSTATS-END -->
+
+<!-- PROJECTS-START -->
+## 📦 Popular Projects Release
+<!-- PROJECTS-END -->
+
+---
+
+---
+
+<!-- REPO-START -->
+## 📁 All Repositories
+<!-- REPO-END -->
 
 ---
 
