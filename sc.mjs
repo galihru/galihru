@@ -2,32 +2,47 @@ import fs from 'fs';
 import fetch from 'node-fetch';
 import { Octokit } from '@octokit/rest';
 
-// Beri tahu Octokit untuk pakai fetch ini
 const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN,
   request: { fetch }
 });
-const username = process.env.GITHUB_ACTOR;
+
+const owner = process.env.GITHUB_REPOSITORY.split('/')[0];
+const username = owner;
 
 async function main() {
-  const owner = process.env.GITHUB_REPOSITORY.split('/')[0];
-  // Mendapatkan repositori publik user tanpa memerlukan scope `user:email`
+  // 1) Ambil daftar repositori publik user
   const { data: repos } = await octokit.repos.listForUser({
-    username: owner,
+    username,
     per_page: 100
   });
 
-  // 1) Tabel skills
-  const skills = JSON.parse(fs.readFileSync('scripts/skills.json', 'utf8'));
+  // 2) Hitung distribusi bahasa utama
+  const langCount = {};
+  repos.forEach(r => {
+    const lang = r.language || 'Unknown';
+    langCount[lang] = (langCount[lang] || 0) + 1;
+  });
+  const total = repos.length;
+  // buat array [ {name, pct} ]
+  const skills = Object.entries(langCount)
+    .filter(([lang]) => lang !== 'Unknown')
+    .map(([lang, cnt]) => ({
+      name: lang,
+      pct: Math.round((cnt / total) * 100)
+    }))
+    .sort((a, b) => b.pct - a.pct);
+
+  // 3) Bangun markdown badge untuk tiap bahasa
   const skillTable = [
-    '| Skill | Level |',
+    '| Language | Usage |',
     '|---|---|',
     ...skills.map(s =>
-      `| ${s.name} | ![${s.name}](https://img.shields.io/badge/${encodeURIComponent(s.name)}-${s.level}%25-${s.color}) |`
+      `| ${s.name} | ![${s.name}](https://img.shields.io/badge/${encodeURIComponent(s.name)}-${s.pct}%25-brightgreen) |`
     )
   ].join('\n');
 
-  // 2) GitHub Stats
+  // 4) GitHub Stats widget
   const ghStats = [
     '<div align="center">',
     `  <img src="https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=dark" />`,
@@ -35,7 +50,7 @@ async function main() {
     '</div>'
   ].join('\n');
 
-  // 3) Project cards
+  // 5) Project cards (star > 0 atau punya package)
   const popular = repos.filter(r => r.stargazers_count > 0 || r.has_packages);
   const cards = popular.map(r => [
       `<td align="center">`,
@@ -50,19 +65,19 @@ async function main() {
   ).join('\n');
   const projectCards = `<table>\n<tr>\n${cards}\n</tr>\n</table>`;
 
-  // 4) Repo list
-  const repoList = repos.map(r =>
-    `- [${r.name}](${r.html_url}) — ${r.description || ''}`
-  ).join('\n');
+  // 6) Daftar semua repo
+  const repoList = repos
+    .map(r => `- [${r.name}](${r.html_url}) — ${r.description || ''}`)
+    .join('\n');
 
-  // 5) Isi template
+  // 7) Baca template dan isi placeholder
   let tpl = fs.readFileSync('README.tpl.md', 'utf8');
   tpl = tpl.replace('<!-- SKILLS_TABLE -->', skillTable);
   tpl = tpl.replace('<!-- GH_STATS -->', ghStats);
   tpl = tpl.replace('<!-- PROJECT_CARDS -->', projectCards);
   tpl = tpl.replace('<!-- REPO_LIST -->', repoList);
 
-  // 6) Tulis README.md
+  // 8) Tulis output ke README.md
   fs.writeFileSync('README.md', tpl, 'utf8');
 }
 
