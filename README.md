@@ -148,7 +148,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>hbd</h3>
   </a>
-  ⭐️ **11**
+  ⭐️ **12**
 
 </td>
 <td align="center">
