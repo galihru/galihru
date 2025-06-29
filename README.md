@@ -44,8 +44,8 @@ I am a Physics student at State University of Semarang. I am known as a committe
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4211421036&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4211421036&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=galihru&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihru&layout=compact&theme=dark" />
 </div>
 <!-- GHSTATS-END -->
 
@@ -56,23 +56,55 @@ I am a Physics student at State University of Semarang. I am known as a committe
 <table>
 <tr>
 <td align="center">
-  <a href="https://github.com/4211421036/4211421036">
+  <a href="https://github.com/galihru/about-us">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
-    <h3>4211421036</h3>
+    <h3>about-us</h3>
   </a>
-  ⭐️ **8**
+  ⭐️ **1**
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/4211421036.github.io">
+  <a href="https://github.com/galihru/aiadblocker">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
-    <h3>4211421036.github.io</h3>
+    <h3>aiadblocker</h3>
   </a>
-  ⭐️ **10**
+  ⭐️ **1**
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/codegenerator">
+  <a href="https://github.com/galihru/arm">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>arm</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/awesome-for-beginners">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>awesome-for-beginners</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/awesome-for-non-programmers">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>awesome-for-non-programmers</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/bem">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>bem</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/codegenerator">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>codegenerator</h3>
   </a>
@@ -80,7 +112,23 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/cv">
+  <a href="https://github.com/galihru/content">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>content</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/CraMind">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>CraMind</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/cv">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>cv</h3>
   </a>
@@ -88,7 +136,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/cvs">
+  <a href="https://github.com/galihru/cvs">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>cvs</h3>
   </a>
@@ -96,7 +144,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/drive">
+  <a href="https://github.com/galihru/drive">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>drive</h3>
   </a>
@@ -104,7 +152,23 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/facemind">
+  <a href="https://github.com/galihru/ErlangApp">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>ErlangApp</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/ErlangBuilder">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>ErlangBuilder</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/facemind">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>facemind</h3>
   </a>
@@ -112,7 +176,23 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/fnn">
+  <a href="https://github.com/galihru/first-contributions">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>first-contributions</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/flowsense">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>flowsense</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/fnn">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>fnn</h3>
   </a>
@@ -120,7 +200,15 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/g4lihru.github.io">
+  <a href="https://github.com/galihru/g4lihru">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>g4lihru</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/g4lihru.github.io">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>g4lihru.github.io</h3>
   </a>
@@ -128,15 +216,71 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/githubiot">
+  <a href="https://github.com/galihru/galihru">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
-    <h3>githubiot</h3>
+    <h3>galihru</h3>
   </a>
-  ⭐️ **6**
+  ⭐️ **8**
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/gsr">
+  <a href="https://github.com/galihru/galihru.github.io">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>galihru.github.io</h3>
+  </a>
+  ⭐️ **10**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/games">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>games</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/githubiot">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>githubiot</h3>
+  </a>
+  ⭐️ **7**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/githubiotdroid">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>githubiotdroid</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/githubioterl">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>githubioterl</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/githubiotpy">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>githubiotpy</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/githubiotscl">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>githubiotscl</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/gsr">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>gsr</h3>
   </a>
@@ -144,7 +288,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/hbd">
+  <a href="https://github.com/galihru/hbd">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>hbd</h3>
   </a>
@@ -152,7 +296,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/hbd.github.io">
+  <a href="https://github.com/galihru/hbd.github.io">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>hbd.github.io</h3>
   </a>
@@ -160,15 +304,23 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/iotgithub">
+  <a href="https://github.com/galihru/hydrogel">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
-    <h3>iotgithub</h3>
+    <h3>hydrogel</h3>
   </a>
-  ⭐️ **8**
+  ⭐️ **1**
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/IoTModule">
+  <a href="https://github.com/galihru/iotgithub">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>iotgithub</h3>
+  </a>
+  ⭐️ **9**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/IoTModule">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>IoTModule</h3>
   </a>
@@ -176,7 +328,31 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/library-registry">
+  <a href="https://github.com/galihru/Lapla">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>Lapla</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/LaplaPy">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>LaplaPy</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/leetcode">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>leetcode</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/library-registry">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>library-registry</h3>
   </a>
@@ -184,7 +360,23 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/MentalHealth">
+  <a href="https://github.com/galihru/magvi">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>magvi</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/mapps">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>mapps</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/MentalHealth">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>MentalHealth</h3>
   </a>
@@ -192,7 +384,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/module">
+  <a href="https://github.com/galihru/module">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>module</h3>
   </a>
@@ -200,7 +392,55 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/qualityair">
+  <a href="https://github.com/galihru/mps20n0040d-arduino">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>mps20n0040d-arduino</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/nesia">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>nesia</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/pechmind">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>pechmind</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/phishing">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>phishing</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/pqcrypto">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>pqcrypto</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/pulsemind">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>pulsemind</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/qualityair">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>qualityair</h3>
   </a>
@@ -208,7 +448,15 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/Riset">
+  <a href="https://github.com/galihru/remdev">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>remdev</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/Riset">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>Riset</h3>
   </a>
@@ -216,7 +464,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/seb-win-refactoring">
+  <a href="https://github.com/galihru/seb-win-refactoring">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>seb-win-refactoring</h3>
   </a>
@@ -224,9 +472,49 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
-  <a href="https://github.com/4211421036/YFS201">
+  <a href="https://github.com/galihru/SimulationCrypto">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>SimulationCrypto</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/skills-introduction-to-codeql">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>skills-introduction-to-codeql</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/smarthome">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>smarthome</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/tvm">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>tvm</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/YFS201">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>YFS201</h3>
+  </a>
+  ⭐️ **2**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/Zoom-Automation-Python">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>Zoom-Automation-Python</h3>
   </a>
   ⭐️ **1**
 
