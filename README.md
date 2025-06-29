@@ -26,10 +26,10 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 | Language | Usage |
 |---|---|
-| HTML | ![HTML](https://img.shields.io/badge/HTML-25%25-brightgreen) |
+| HTML | ![HTML](https://img.shields.io/badge/HTML-27%25-brightgreen) |
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-17%25-brightgreen) |
-| Python | ![Python](https://img.shields.io/badge/Python-16%25-brightgreen) |
 | C++ | ![C++](https://img.shields.io/badge/C%2B%2B-16%25-brightgreen) |
+| Python | ![Python](https://img.shields.io/badge/Python-14%25-brightgreen) |
 | Erlang | ![Erlang](https://img.shields.io/badge/Erlang-3%25-brightgreen) |
 | C | ![C](https://img.shields.io/badge/C-3%25-brightgreen) |
 | Markdown | ![Markdown](https://img.shields.io/badge/Markdown-2%25-brightgreen) |
@@ -108,7 +108,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>facemind</h3>
   </a>
-  ⭐️ **23**
+  ⭐️ **24**
 
 </td>
 <td align="center">
