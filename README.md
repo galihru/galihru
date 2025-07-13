@@ -26,17 +26,17 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 | Language | Usage |
 |---|---|
-| HTML | ![HTML](https://img.shields.io/badge/HTML-26%25-brightgreen) |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-17%25-brightgreen) |
+| HTML | ![HTML](https://img.shields.io/badge/HTML-25%25-brightgreen) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-16%25-brightgreen) |
 | Python | ![Python](https://img.shields.io/badge/Python-15%25-brightgreen) |
 | C++ | ![C++](https://img.shields.io/badge/C%2B%2B-15%25-brightgreen) |
 | Erlang | ![Erlang](https://img.shields.io/badge/Erlang-3%25-brightgreen) |
 | C | ![C](https://img.shields.io/badge/C-3%25-brightgreen) |
-| Markdown | ![Markdown](https://img.shields.io/badge/Markdown-2%25-brightgreen) |
-| TeX | ![TeX](https://img.shields.io/badge/TeX-2%25-brightgreen) |
-| Scala | ![Scala](https://img.shields.io/badge/Scala-2%25-brightgreen) |
-| E | ![E](https://img.shields.io/badge/E-2%25-brightgreen) |
-| C# | ![C#](https://img.shields.io/badge/C%23-2%25-brightgreen) |
+| Markdown | ![Markdown](https://img.shields.io/badge/Markdown-1%25-brightgreen) |
+| TeX | ![TeX](https://img.shields.io/badge/TeX-1%25-brightgreen) |
+| Scala | ![Scala](https://img.shields.io/badge/Scala-1%25-brightgreen) |
+| E | ![E](https://img.shields.io/badge/E-1%25-brightgreen) |
+| C# | ![C#](https://img.shields.io/badge/C%23-1%25-brightgreen) |
 <!-- SKILLS-END -->
 
 <!-- GHSTATS-START -->
