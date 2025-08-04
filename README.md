@@ -362,6 +362,14 @@ I am a Physics student at State University of Semarang. I am known as a committe
 
 </td>
 <td align="center">
+  <a href="https://github.com/galihru/logicsim">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>logicsim</h3>
+  </a>
+  ⭐️ **1**
+
+</td>
+<td align="center">
   <a href="https://github.com/galihru/magvi">
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>magvi</h3>
