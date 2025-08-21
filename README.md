@@ -30,6 +30,7 @@ I am a Physics student at State University of Semarang. I am known as a committe
 | C++ | ![C++](https://img.shields.io/badge/C%2B%2B-18%25-brightgreen) |
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-16%25-brightgreen) |
 | Python | ![Python](https://img.shields.io/badge/Python-14%25-brightgreen) |
+| C# | ![C#](https://img.shields.io/badge/C%23-3%25-brightgreen) |
 | Erlang | ![Erlang](https://img.shields.io/badge/Erlang-3%25-brightgreen) |
 | C | ![C](https://img.shields.io/badge/C-3%25-brightgreen) |
 | Verilog | ![Verilog](https://img.shields.io/badge/Verilog-1%25-brightgreen) |
@@ -37,7 +38,6 @@ I am a Physics student at State University of Semarang. I am known as a committe
 | TeX | ![TeX](https://img.shields.io/badge/TeX-1%25-brightgreen) |
 | Scala | ![Scala](https://img.shields.io/badge/Scala-1%25-brightgreen) |
 | E | ![E](https://img.shields.io/badge/E-1%25-brightgreen) |
-| C# | ![C#](https://img.shields.io/badge/C%23-1%25-brightgreen) |
 | CMake | ![CMake](https://img.shields.io/badge/CMake-1%25-brightgreen) |
 <!-- SKILLS-END -->
 
