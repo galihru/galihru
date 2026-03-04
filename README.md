@@ -10,15 +10,19 @@
 
 ## Profile
 
-I am a Physics student at State University of Semarang. I am known as a committed person to working collaboratively and positively in a team. I have a passion for studying optical sensors, such as waveguide sensors and SERS sensors, and exploring Artificial Intelligence (AI). I have experience in AI programming through participation in the Habibie Tech Fest 2021 International Competition in collaboration with the Ministry of Education and Culture, Intel, and LinkedIn. I enjoy learning new things outside my expertise and conducting laboratory research with my colleagues. I am humble and eager to learn from others
+I am a Physics (S1) at State University of Semarang. Now I am continuing my master's degree in Beijing. I am known as a committed person to working collaboratively and positively in a team. I have a passion for studying optical sensors, such as waveguide sensors and SERS sensors, and exploring Artificial Intelligence (AI). I have experience in AI programming through participation in the Habibie Tech Fest 2021 International Competition in collaboration with the Ministry of Education and Culture, Intel, and LinkedIn. I enjoy learning new things outside my expertise and conducting laboratory research with my colleagues. I am humble and eager to learn from others
+
+version (zh language) 中文
+我本科就读于三宝垄国立大学物理系，目前在北京攻读硕士学位。我以积极主动、善于团队合作而著称。我热衷于研究光学传感器，例如波导传感器和 SERS 传感器，并探索人工智能 (AI)。我通过参加 2021 年 Habibie Tech Fest 国际竞赛（与教育文化部、英特尔和 LinkedIn 合作举办）积累了人工智能编程方面的经验。我喜欢学习专业领域之外的新知识，也乐于与同事一起进行实验室研究。我为人谦逊，渴望向他人学习。
+
 
 ---
 
 ## Skills
 
-- Data Analysis  
-- Experimental Design  
-- Research Design  
+- Data Analysis
+- Experimental Design
+- Research Design
 
 <!-- SKILLS-START -->
 ### Mastered and frequently used programming languages
