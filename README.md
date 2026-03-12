@@ -31,9 +31,9 @@ version (zh language) 中文
 
 | Language | Usage |
 |---|---|
-| HTML | ![HTML](https://img.shields.io/badge/HTML-21%25-brightgreen) |
+| HTML | ![HTML](https://img.shields.io/badge/HTML-22%25-brightgreen) |
 | C++ | ![C++](https://img.shields.io/badge/C%2B%2B-17%25-brightgreen) |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-15%25-brightgreen) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-14%25-brightgreen) |
 | Python | ![Python](https://img.shields.io/badge/Python-13%25-brightgreen) |
 | Scala | ![Scala](https://img.shields.io/badge/Scala-5%25-brightgreen) |
 | C# | ![C#](https://img.shields.io/badge/C%23-2%25-brightgreen) |
