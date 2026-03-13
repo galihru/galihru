@@ -31,7 +31,7 @@ version (zh language) 中文
 
 | Language | Usage |
 |---|---|
-| HTML | ![HTML](https://img.shields.io/badge/HTML-22%25-brightgreen) |
+| HTML | ![HTML](https://img.shields.io/badge/HTML-21%25-brightgreen) |
 | C++ | ![C++](https://img.shields.io/badge/C%2B%2B-17%25-brightgreen) |
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-14%25-brightgreen) |
 | Python | ![Python](https://img.shields.io/badge/Python-13%25-brightgreen) |
@@ -44,7 +44,6 @@ version (zh language) 中文
 | Markdown | ![Markdown](https://img.shields.io/badge/Markdown-1%25-brightgreen) |
 | TeX | ![TeX](https://img.shields.io/badge/TeX-1%25-brightgreen) |
 | E | ![E](https://img.shields.io/badge/E-1%25-brightgreen) |
-| CMake | ![CMake](https://img.shields.io/badge/CMake-1%25-brightgreen) |
 <!-- SKILLS-END -->
 
 <!-- GHSTATS-START -->
@@ -653,14 +652,6 @@ version (zh language) 中文
     <h3>ukmp</h3>
   </a>
   ⭐️ **1**
-
-</td>
-<td align="center">
-  <a href="https://github.com/galihru/vcpkg">
-    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
-    <h3>vcpkg</h3>
-  </a>
-  ⭐️ **2**
 
 </td>
 <td align="center">
