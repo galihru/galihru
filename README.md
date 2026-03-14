@@ -32,9 +32,9 @@ version (zh language) 中文
 | Language | Usage |
 |---|---|
 | HTML | ![HTML](https://img.shields.io/badge/HTML-21%25-brightgreen) |
-| C++ | ![C++](https://img.shields.io/badge/C%2B%2B-17%25-brightgreen) |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-14%25-brightgreen) |
-| Python | ![Python](https://img.shields.io/badge/Python-13%25-brightgreen) |
+| C++ | ![C++](https://img.shields.io/badge/C%2B%2B-16%25-brightgreen) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-15%25-brightgreen) |
+| Python | ![Python](https://img.shields.io/badge/Python-14%25-brightgreen) |
 | Scala | ![Scala](https://img.shields.io/badge/Scala-5%25-brightgreen) |
 | C# | ![C#](https://img.shields.io/badge/C%23-2%25-brightgreen) |
 | Erlang | ![Erlang](https://img.shields.io/badge/Erlang-2%25-brightgreen) |
@@ -43,6 +43,7 @@ version (zh language) 中文
 | Kotlin | ![Kotlin](https://img.shields.io/badge/Kotlin-1%25-brightgreen) |
 | Markdown | ![Markdown](https://img.shields.io/badge/Markdown-1%25-brightgreen) |
 | TeX | ![TeX](https://img.shields.io/badge/TeX-1%25-brightgreen) |
+| Ruby | ![Ruby](https://img.shields.io/badge/Ruby-1%25-brightgreen) |
 | E | ![E](https://img.shields.io/badge/E-1%25-brightgreen) |
 <!-- SKILLS-END -->
 
