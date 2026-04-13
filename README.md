@@ -301,7 +301,7 @@ version (zh language) 中文
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>galihru.github.io</h3>
   </a>
-  ⭐️ **12**
+  ⭐️ **13**
 
 </td>
 <td align="center">
