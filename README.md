@@ -35,7 +35,7 @@ version (zh language) 中文
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-15%25-brightgreen) |
 | C++ | ![C++](https://img.shields.io/badge/C%2B%2B-15%25-brightgreen) |
 | Python | ![Python](https://img.shields.io/badge/Python-13%25-brightgreen) |
-| Scala | ![Scala](https://img.shields.io/badge/Scala-4%25-brightgreen) |
+| Scala | ![Scala](https://img.shields.io/badge/Scala-5%25-brightgreen) |
 | TypeScript | ![TypeScript](https://img.shields.io/badge/TypeScript-3%25-brightgreen) |
 | C# | ![C#](https://img.shields.io/badge/C%23-2%25-brightgreen) |
 | Erlang | ![Erlang](https://img.shields.io/badge/Erlang-2%25-brightgreen) |
