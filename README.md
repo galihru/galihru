@@ -31,7 +31,7 @@ version (zh language) 中文
 
 | Language | Usage |
 |---|---|
-| HTML | ![HTML](https://img.shields.io/badge/HTML-19%25-brightgreen) |
+| HTML | ![HTML](https://img.shields.io/badge/HTML-21%25-brightgreen) |
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-15%25-brightgreen) |
 | C++ | ![C++](https://img.shields.io/badge/C%2B%2B-15%25-brightgreen) |
 | Python | ![Python](https://img.shields.io/badge/Python-13%25-brightgreen) |
@@ -414,6 +414,14 @@ version (zh language) 中文
     <h3>IoTModule</h3>
   </a>
   ⭐️ **11**
+
+</td>
+<td align="center">
+  <a href="https://github.com/galihru/KakeyaSetConjecture">
+    <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
+    <h3>KakeyaSetConjecture</h3>
+  </a>
+  ⭐️ **1**
 
 </td>
 <td align="center">
