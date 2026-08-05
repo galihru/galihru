@@ -245,7 +245,7 @@ version (zh language) 中文
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>facemind</h3>
   </a>
-  ⭐️ **36**
+  ⭐️ **37**
 
 </td>
 <td align="center">
@@ -373,7 +373,7 @@ version (zh language) 中文
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>hbd</h3>
   </a>
-  ⭐️ **15**
+  ⭐️ **14**
 
 </td>
 <td align="center">
