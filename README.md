@@ -245,7 +245,7 @@ version (zh language) 中文
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>facemind</h3>
   </a>
-  ⭐️ **37**
+  ⭐️ **38**
 
 </td>
 <td align="center">
@@ -309,7 +309,7 @@ version (zh language) 中文
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>galihru.github.io</h3>
   </a>
-  ⭐️ **13**
+  ⭐️ **14**
 
 </td>
 <td align="center">
@@ -373,7 +373,7 @@ version (zh language) 中文
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>hbd</h3>
   </a>
-  ⭐️ **15**
+  ⭐️ **16**
 
 </td>
 <td align="center">
@@ -493,7 +493,7 @@ version (zh language) 中文
     <img src="https://avatars.githubusercontent.com/u/92840324?v=4" width="120" />
     <h3>MentalHealth</h3>
   </a>
-  ⭐️ **23**
+  ⭐️ **24**
 
 </td>
 <td align="center">
